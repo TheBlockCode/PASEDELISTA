@@ -8,7 +8,5 @@
 </head>
 <body>
 
-</script>
-
 </body>
 </html>
