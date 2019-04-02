@@ -63,10 +63,10 @@
 
 </head>
 <body>
-	<form>
+	<form action="/login" method="POST">
 		<h2>Listado de alumnos de la modelo</h2>
-		<input type="text" placeholder="&#128272; Usuario" name="usuario">
-		<input type="password" placeholder="&#128272; Contraseña" name="clave">
+		<input type="text" placeholder="&#128272; Usuario" name="usuario" id="user">
+		<input type="password" placeholder="&#128272; Contraseña" name="clave" id="password">
 		<input type="submit" value="Ingresar">
 	</form>
 </body>
